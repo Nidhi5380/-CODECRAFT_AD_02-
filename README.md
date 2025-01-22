@@ -1,6 +1,8 @@
 # -CODECRAFT_AD_02-
 TO DO LIST APP
+
 The TO-DO List App is a Python based application designed to help users organize and manage their tasks efficiently.
+
 It supports features such as adding, viewing, updating, and deleting tasks.
 
 FEATURES:
